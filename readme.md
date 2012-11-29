@@ -1,10 +1,16 @@
 Turkey Farmer
 ==============
 
-This project was written over the course of a few days for an introductory Java course. It is provided here 
-in full in case anyone finds it useful. See "Using this code" below.
+This project was written for an introductory Java course. It is provided here 
+in case anyone finds it useful. Note that this was written for accademic purposes only. 
+Please see "Credits" and "Using this code" below.
 
-The code is by no means perfect, so if you see something that can be improved, feel free to lef me know. 
+If you see something that can be improved, let me know. I make no claims that this code
+is perfect, and I'm pretty sure there is a memory leak or two in there somewhere.  
+
+You will need Java installed on your machine to play this game. Just download and run
+the [packaged executable JAR file](https://github.com/downloads/JeromeDane/Turkey-Farmer/TurkeyFarmer.v0.1.0.jar), 
+or you can load the full project code into your favorite Java IDE and compile it yourself.
 
 Credits
 ==========

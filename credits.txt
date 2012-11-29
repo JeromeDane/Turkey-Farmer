@@ -1,0 +1,10 @@
+This project was written by Jerome Dane (http://JeromeDane.com) while working on group project with Sandra Poulos. 
+
+All graphics and artwork other than game title were found online, 
+and are used here for the academic (non-commercial) purpose of this homework only.
+
+Game over image: http://my.opera.com/clean/blog/show.dml/4824921
+Farmer sprite: http://www.rpg-palace.com/categories/game-maker-s-guild/resource-discussion/frankenstein-sprite-tutorial
+Turkey (chicken) sprite: http://www.rpgmakervx.net/lofiversion/index.php/t8711.html
+You Win! turkey dinner: http://pixabay.com/en/food-thanksgiving-spread-turkey-23435/
+Background Tileset: http://www.lostgarden.com/2006/07/more-free-game-graphics.html

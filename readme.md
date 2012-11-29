@@ -1,6 +1,8 @@
 Turkey Farmer
 ==============
 
+![Turkey Farmer Screenshot](https://lh4.googleusercontent.com/-gECewo8qxNs/ULeGFtxenXI/AAAAAAAAU1k/xDmWpwOiLEs/s500/TurkeyFarmer.png "Gameplay screenshot")
+
 This project was written for an introductory Java course. It is provided here 
 in case anyone finds it useful. Note that this was written for accademic purposes only. 
 Please see "Credits" and "Using this code" below.

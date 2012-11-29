@@ -11,8 +11,8 @@ is perfect, and I'm pretty sure there is a memory leak or two in there somewhere
 Playing the Game
 ================
 
-You will need Java installed on your machine to play this game. Just download and run
-the [packaged executable JAR file](https://github.com/downloads/JeromeDane/Turkey-Farmer/TurkeyFarmer.v0.1.0.jar), 
+You will need [Java](http://java.com) installed on your machine to play this game. Just download and run
+the **[packaged executable JAR file](https://github.com/downloads/JeromeDane/Turkey-Farmer/TurkeyFarmer.v0.1.0.jar)**, 
 or you can load the full project code into your favorite Java IDE and compile it yourself.
 
 Credits
